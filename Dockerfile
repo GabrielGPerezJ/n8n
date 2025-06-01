@@ -8,5 +8,3 @@ ENV N8N_BASIC_AUTH_PASSWORD=admin
 # Expone el puerto predeterminado de n8n
 EXPOSE 5678
 
-# Comando para iniciar n8n
-CMD ["n8n"]
